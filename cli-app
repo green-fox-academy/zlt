@@ -1,0 +1,3 @@
+#! /home/eggdice/.nvm/versions/node/v13.0.0/bin/node
+
+console.log(1234);
